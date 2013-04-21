@@ -1,4 +1,4 @@
-myspringmvcapp
+myspringmvcapp (Maven based and supports Spring 3.2.2.RELEASE)
 ==============
 These instructions are for Mac OSX, but adjust as necessary
 
