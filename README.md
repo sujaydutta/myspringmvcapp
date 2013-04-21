@@ -6,7 +6,7 @@ clone:
 git clone https://github.com/sujaydutta/myspringmvcapp
 
 navigate to the folder:
-cd myspringapp
+cd myspringmvcapp
 
 run:
 mvn tomcat:run
